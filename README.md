@@ -9,6 +9,8 @@ programmers school 정리
 - [X] 배상 비용 최소화 (lv2)
 - [X] 게임아이템 (lv3)
 - [X] 문자열 압축 (https://programmers.co.kr/learn/courses/30/lessons/60057)
+- [X] 전염병
+- [X] 야근 지수
 
 ## Week2. Stack & Hash
 - [ ] 나머지 한 점 (lv1)
