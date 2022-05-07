@@ -1,4 +1,4 @@
-# 빙고 (lv3)
+# 빙고 (lv.3)
 
 def solution(board, nums):
     """
